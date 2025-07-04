@@ -16,11 +16,19 @@ Data Source
 
 In the initial data preperation phase, we performed the following
 
-- Data loading and inspection.
+1. Data loading and inspection.
 
-- Handling missing values.
+2. Handling missing values.
 
-- Data cleaning formation.
+3. Data cleaning formation.
+
+  ###Exploratory Data Analysis
+
+  Exploratory Data Analysis invlves exploring the sales data to answer key questions such as:
+
+  -  
+
+  
 
 
 
