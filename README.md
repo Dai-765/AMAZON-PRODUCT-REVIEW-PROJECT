@@ -12,6 +12,13 @@ Data Source
 
 -microsoft excel cleaning[Download hear](https://microsoft.com)
 
+###Data Cleaning/preperation
+
+In the initial data preperation phase, we performed the following
+
+- 
+
+
 
 
 
