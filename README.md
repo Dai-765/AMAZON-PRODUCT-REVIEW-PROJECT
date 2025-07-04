@@ -32,13 +32,25 @@ In the initial data preperation phase, we performed the following
 
   - what are peak sales periods
 
-     ##Date Analysis
+     ###Date Analysis
 
     Include some interesting code/features works with eg
 
-    - microsoft powerquery
+    - microsoft powerquery:
    
     - excel formulas
+
+      ###Results/Finding:
+
+      Product category A is the best performing category in terms review and revenue
+
+      ###Recommendations
+
+      Base on analysis i recommende the following actions.
+
+      1. Invest in marketing and promot in during peak sales season to maxiamize revenue
+     
+      2. Focus on expending and promoting products in caterory A
 
   
 
