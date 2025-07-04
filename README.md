@@ -26,7 +26,19 @@ In the initial data preperation phase, we performed the following
 
   Exploratory Data Analysis invlves exploring the sales data to answer key questions such as:
 
-  -  
+  - What is the overall sales.
+
+  - which products are top sales
+
+  - what are peak sales periods
+
+     ##Date Analysis
+
+    Include some interesting code/features works with eg
+
+    - microsoft powerquery
+   
+    - excel formulas
 
   
 
