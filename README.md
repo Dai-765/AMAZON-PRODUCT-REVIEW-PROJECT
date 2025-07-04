@@ -1,18 +1,18 @@
-##Amazon Product Review Analysis
+Amazon Product Review Analysis
 
-###Project Overvie:
+Project Overvie:
 
-###This data analysis project aims to provide insights into the sales performance of Amazon company over the past years.By analyzing various aspects of the sale date, we seek to identify trends, make date-driven recommendation and gain a deeper understanding of the compang's performance.
+This data analysis project aims to provide insights into the sales performance of Amazon company over the past years.By analyzing various aspects of the sale date, we seek to identify trends, make date-driven recommendation and gain a deeper understanding of the compang's performance.
 
 Data Source
 
-###Sales Data: The primary data set used for this analysis is the microsoft excel file cotaining detailed information about each sales made by the company.
+Sales Data: The primary data set used for this analysis is the microsoft excel file cotaining detailed information about each sales made by the company.
 
-###Tools
+Tools
 
 -microsoft excel cleaning[Download hear](https://microsoft.com)
 
-###Data Cleaning/preperation
+Data Cleaning/preperation
 
 In the initial data preperation phase, we performed the following
 
@@ -22,7 +22,7 @@ In the initial data preperation phase, we performed the following
 
 3. Data cleaning formation.
 
-  ###Exploratory Data Analysis
+  Exploratory Data Analysis
 
   Exploratory Data Analysis invlves exploring the sales data to answer key questions such as:
 
@@ -32,7 +32,7 @@ In the initial data preperation phase, we performed the following
 
   - what are peak sales periods
 
-     ###Date Analysis
+     Date Analysis
 
     Include some interesting code/features works with eg
 
@@ -40,11 +40,11 @@ In the initial data preperation phase, we performed the following
    
     - excel formulas
 
-      ###Results/Finding:
+      Results/Finding:
 
       Product category A is the best performing category in terms review and revenue
 
-      ###Recommendations
+      Recommendations
 
       Base on analysis i recommende the following actions.
 
