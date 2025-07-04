@@ -16,7 +16,11 @@ Data Source
 
 In the initial data preperation phase, we performed the following
 
-- 
+- Data loading and inspection.
+
+- Handling missing values.
+
+- Data cleaning formation.
 
 
 
