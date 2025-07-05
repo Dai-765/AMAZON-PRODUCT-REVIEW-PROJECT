@@ -1,6 +1,14 @@
 Amazon Product Review Analysis
 
-Project Overvie:
+###Table Of Content
+
+- (project Overview)(#Project-Overview)
+
+- (Data Sources)(#Date_Sources)
+
+- (Recommendations)(#recommendation)
+
+Project Overview:
 
 This data analysis project aims to provide insights into the sales performance of Amazon company over the past years.By analyzing various aspects of the sale date, we seek to identify trends, make date-driven recommendation and gain a deeper understanding of the compang's performance.
 
@@ -48,7 +56,7 @@ In the initial data preperation phase, we performed the following
 
       Base on analysis i recommende the following actions.
 
-      1. Invest in marketing and promot in during peak sales season to maxiamize revenue
+      1. Invest in marketing and promotion during peak sales season to maxiamize revenue.
      
       2. Focus on expending and promoting products in caterory A
 
