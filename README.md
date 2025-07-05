@@ -1,6 +1,6 @@
-#Amazon Product Review Analysis
+Amazon Product Review Analysis
 
-##Table Of Content
+Table Of Content
 
 - [Project Overview](#Project-Overview)
 
@@ -58,7 +58,7 @@ In the initial data preperation phase, we performed the following
 
       1. Invest in marketing and promotion during peak sales season to maxiamize revenue.
      
-      2. Focus on expending and promoting products in caterory A
+      2. Focus on expending and promoting products in caterory A.
 
   
 
