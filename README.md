@@ -10,7 +10,8 @@ Table Of Content
 
 Project Overview:
 
-This data analysis project aims to provide insights into the sales performance of Amazon company over the past years.By analyzing various aspects of the sale date, we seek to identify trends, make date-driven recommendation and gain a deeper understanding of the compang's performance.
+This data analysis project aims to provide insights into the sales performance of Amazon company over the past years.By analyzing various aspects of the sale date, we seek to identify trends, make date-driven recommendation and gain a deeper understanding o[Amazon case study (4).xlsx](https://github.com/user-attachments/files/21076207/Amazon.case.study.4.xlsx)
+f the compang's performance.
 
 Data Source
 
