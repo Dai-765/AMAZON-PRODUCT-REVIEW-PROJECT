@@ -1,12 +1,12 @@
-Amazon Product Review Analysis
+#Amazon Product Review Analysis
 
-###Table Of Content
+##Table Of Content
 
-- (project Overview)(#Project-Overview)
+- [Project Overview](#Project-Overview)
 
-- (Data Sources)(#Date_Sources)
+- [Data Sources](#Date_Sources)
 
-- (Recommendations)(#recommendation)
+- [Recommendation](#recommendation)
 
 Project Overview:
 
@@ -48,9 +48,9 @@ In the initial data preperation phase, we performed the following
    
     - excel formulas
 
-      Results/Finding:
+      Results/Findings:
 
-      Product category A is the best performing category in terms review and revenue
+      Product category A is the best performing category in terms of review and revenue.
 
       Recommendations
 
