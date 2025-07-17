@@ -41,6 +41,8 @@ In the initial data preperation phase, we performed the following
 
   - what are peak sales periods
 
+  - Tope product reviews 
+   
      Date Analysis
 
     Include some interesting code/features works with eg
