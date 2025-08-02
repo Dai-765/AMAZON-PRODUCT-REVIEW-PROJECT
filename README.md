@@ -20,6 +20,7 @@ Sales Data: The primary data set used for this analysis is the microsoft excel f
 Tools
 
 -microsoft excel cleaning[Download hear](https://microsoft.com)
+[Amazon case study (4) (1) (Repaired).xlsx](https://github.com/user-attachments/files/21559082/Amazon.case.study.4.1.Repaired.xlsx)
 
 Data Cleaning/preperation
 
@@ -72,3 +73,7 @@ In the initial data preperation phase, we performed the following
 
 
 '
+
+
+[Amazon case study (4) (1).xlsx](https://github.com/user-attachments/files/21559150/Amazon.case.study.4.1.xlsx)
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21559178/Amazon.case.study.xlsx)
